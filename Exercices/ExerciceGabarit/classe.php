@@ -1,2 +1,2 @@
 <?php
-require_once("Gabarit.php");
+require_once("index.php");

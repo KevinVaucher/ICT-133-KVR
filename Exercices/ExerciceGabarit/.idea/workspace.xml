@@ -20,7 +20,7 @@
   <component name="ProjectId" id="1UsUuTTPwJHrrzvxBP1GKRESIri" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="HTML&#10;PHP" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="CSS&#10;HTML&#10;PHP" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
@@ -51,6 +51,7 @@
       <option name="presentableId" value="Default" />
       <updated>1576145062247</updated>
       <workItem from="1576145063364" duration="3154000" />
+      <workItem from="1576240458569" duration="4568000" />
     </task>
     <servers />
   </component>
@@ -62,7 +63,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
