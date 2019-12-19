@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="16f95633-b6ad-441d-872f-84f39d2bc943" name="Default Changelist" comment="" />
+    <list default="true" id="354ff53a-c91d-44da-ae21-d3120d5981d3" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,14 +14,15 @@
     </execution>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/MVC" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.3" />
-  <component name="ProjectId" id="1UsUuTTPwJHrrzvxBP1GKRESIri" />
+  <component name="ProjectId" id="1VC8vpr6etLGb7Z3ASV4sLfWkIr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="CSS&#10;HTML&#10;PHP" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ExerciceMVC" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="PHP" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/MVC" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -36,7 +37,7 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="Unnamed" type="PhpBuiltInWebServerConfigurationType" factoryName="PHP Built-in Web Server" nameIsGenerated="true" document_root="$PROJECT_DIR$" port="8080">
+    <configuration name="Unnamed" type="PhpBuiltInWebServerConfigurationType" factoryName="PHP Built-in Web Server" nameIsGenerated="true" document_root="$PROJECT_DIR$/MVC" port="8080">
       <method v="2" />
     </configuration>
   </component>
@@ -45,14 +46,12 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="16f95633-b6ad-441d-872f-84f39d2bc943" name="Default Changelist" comment="" />
-      <created>1576145062247</created>
+      <changelist id="354ff53a-c91d-44da-ae21-d3120d5981d3" name="Default Changelist" comment="" />
+      <created>1576745949539</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1576145062247</updated>
-      <workItem from="1576145063364" duration="3154000" />
-      <workItem from="1576240458569" duration="4568000" />
-      <workItem from="1576745733416" duration="216000" />
+      <updated>1576745949539</updated>
+      <workItem from="1576745950688" duration="3880000" />
     </task>
     <servers />
   </component>
@@ -64,9 +63,7 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
