@@ -1,4 +1,5 @@
 <?php
+$title = 'Films';
 ob_start();
 $movies = [
     ['title' => 'Jumanji: Next Level', 'audio' => 'Doublé en français', 'showtime' => '18:00'],
@@ -34,4 +35,5 @@ echo "<h2>" . "Il y a actuellement " . $nbmovies . " films" . "</h2>";
 </table>
 <?php
 $content = ob_get_clean();
+require_once('gabarit.php');
 ?>

@@ -1,4 +1,5 @@
 <?php
+require_once('controller/controller.php');
 $action = $_GET['action'];
 switch ($action) {
     case 'movies':
@@ -7,9 +8,7 @@ switch ($action) {
         require_once 'view/movies.php';
         break;
     case 'concerts':
-        $title = 'Concerts';
-        $content = 'Liste des concerts';
-        require_once 'view/concerts.php';
+        showConcerts();
         break;
     default:
         $title = 'Accueil';
